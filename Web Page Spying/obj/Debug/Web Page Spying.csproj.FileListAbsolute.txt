@@ -1,0 +1,7 @@
+E:\Pranam\Git Repository Projects\Web Page Spying\Web Page Spying\obj\Debug\Web Page Spying.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\Web Page Spying\Web Page Spying\obj\Debug\Web Page Spying.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\Web Page Spying\Web Page Spying\bin\Debug\Web Page Spying.exe.config
+E:\Pranam\Git Repository Projects\Web Page Spying\Web Page Spying\bin\Debug\Web Page Spying.exe
+E:\Pranam\Git Repository Projects\Web Page Spying\Web Page Spying\bin\Debug\Web Page Spying.pdb
+E:\Pranam\Git Repository Projects\Web Page Spying\Web Page Spying\obj\Debug\Web Page Spying.exe
+E:\Pranam\Git Repository Projects\Web Page Spying\Web Page Spying\obj\Debug\Web Page Spying.pdb
