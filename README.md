@@ -6,7 +6,7 @@
 
 -----------------------------------------------------------------------------------------------------
 
-## Development server
+## Development
 
 git clone https://github.com/PranamBhat/Payment-Gateway.git
 
